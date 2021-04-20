@@ -11,4 +11,4 @@ I decided to make my playground around Langton's Ant, taking one step further by
 
 Click on the image to see the playground in action.
 
-[![Langton's Ant demo video](https://github.com/Happygallo/LangtonsAnt/blob/973113028f8d85885ba8af54d8860b52c6fbd221/LangtonsAntImage.png)](https://youtu.be/gCRG00CTZCo)
+[![Langton's Ant demo video](https://img.youtube.com/vi/gCRG00CTZCo/0.jpg)](https://youtu.be/gCRG00CTZCo)
